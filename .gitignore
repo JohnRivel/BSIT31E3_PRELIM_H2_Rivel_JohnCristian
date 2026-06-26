@@ -58,3 +58,10 @@ nunit-*.xml
 /.idea/
 *.json
 *.txt
+*.v2
+*.vsidx
+*.bin
+ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2
+/ConsoleApp1/.vs
+/ConsoleApp1
+*.vsidx
